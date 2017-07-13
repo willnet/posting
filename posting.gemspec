@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Posting::VERSION
   s.authors     = ["willnet"]
   s.email       = ["netwillnet@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Posting."
-  s.description = "TODO: Description of Posting."
+  s.homepage    = "https://github.com/willnet/posting"
+  s.summary     = "for investigating rails bug"
+  s.description = "for investigating rails bug"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
